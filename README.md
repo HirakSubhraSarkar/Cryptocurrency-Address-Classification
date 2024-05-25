@@ -1,7 +1,7 @@
 
 # Cryptocurrency Address Classification
 
-Objective: The objective of this internship assignment is to develop a machine learning model that can accurately classify cryptocurrency
+Objective: The objective of this project is to develop a machine learning model that can accurately classify cryptocurrency
 addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron).
 
 
