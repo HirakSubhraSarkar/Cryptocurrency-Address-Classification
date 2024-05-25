@@ -7,12 +7,13 @@ addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron
 
 ## Demo
 
-Insert gif or link to demo
+
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+SC1.JPG
+
 
 
 ## API Reference
