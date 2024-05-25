@@ -7,6 +7,7 @@ addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron
 
 ## Demo
 
+![appStreamlit-GoogleChrome2024-05-2515-04-19-ezgif com-video-to-gif-converter](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/4275f38c-17b0-4cce-ab2f-a6e377d41003)
 
 
 
