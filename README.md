@@ -13,10 +13,12 @@ addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron
 
 ## Result
 Rnadom forest classification
+
 ![SC1](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/dad68e26-d7fe-4279-9792-b6fed492f7d0)
 
 
 SVM
+
 ![SC2](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/4c92ce76-1d35-4d40-8c46-53a91836598b)
 
 
