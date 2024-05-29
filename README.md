@@ -78,5 +78,6 @@ pip install streamlit
 ```
 ## Documentation
 
-[Cryptocurrency Address Classification_Documentation.docx](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/files/15443422/Cryptocurrency.Address.Classification_Documentation.docx)
+
+[Cryptocurrency Address Classification_Documentation.pdf](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/files/15482968/Cryptocurrency.Address.Classification_Documentation.pdf)
 
