@@ -63,7 +63,7 @@ pip install flask
 ```
 In Postman(POST METHOD) 
 ```bash
-localhost:5000/Cryptocurrency
+localhost:5000/Cryptocurrency/Enter Your Address
 ```
 ## Documentation
 
