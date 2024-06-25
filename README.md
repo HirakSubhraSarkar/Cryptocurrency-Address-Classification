@@ -54,8 +54,7 @@ https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/asset
 
 ## Deployment
 
-To deploy this project
-
+To deploy this project & To download the model please refer to "Final_Model" File
 ```bash
   pip install bech32 base58
 ```
