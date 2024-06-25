@@ -9,7 +9,8 @@ addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![RFC](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/af67e380-ad79-4ab2-bd74-b1fcbafbc108)
 
 
 ## API Reference
