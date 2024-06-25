@@ -62,7 +62,7 @@ To deploy this project
 ```bash
 pip install flask
 ```
-In Postman(POST METHOD) 
+In Postman(POST METHOD) Use this File "APP_RANDOM FOREST CLASSIFIER.py" 
 ```bash
 localhost:5000/Cryptocurrency/Enter Your Address
 ```
