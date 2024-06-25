@@ -17,7 +17,8 @@ https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/asset
 ## Screenshots
 
 
-![RFC](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/af67e380-ad79-4ab2-bd74-b1fcbafbc108)
+
+![RFC 2](https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/6dc85ad0-3be4-4c40-aa02-85efa5ff65d5)
 
 
 ## API Reference
