@@ -7,7 +7,11 @@ addresses into different types, such as BTC (Bitcoin), ETH (Ethereum), TRX (Tron
 
 ## Demo
 
-https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/0b0bd180-e890-4e49-9191-6bee92a10a1f
+
+
+
+https://github.com/HirakSubhraSarkar/Cryptocurrency-Address-Classification/assets/159253204/2f8b7552-52a3-415d-a50a-1ad03b2f82cd
+
 
 
 ## Screenshots
